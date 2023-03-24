@@ -723,7 +723,7 @@ nav ul li a:hover::after
     0px 11px 3px rgba(0, 0, 0, 0.2);
 }
 .sigma .carousel .card .box .text {
-  font-size: 20px;
+  font-size: 15px;
 
   font-weight: 500;
   color: rgb(170, 124, 245);
