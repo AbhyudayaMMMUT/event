@@ -15,24 +15,39 @@ $(document).ready(function()
         autoplayHoverPause:true,
         responsive:
         {
+//             0:
+//             {
+//                 items:1,
+//                 nav:false
+//             },
+//             333:
+//             {
+//                 items:2,
+//                 nav:false
+//             },
+//             666:
+//             {
+//                 items:3,
+//                 nav:false
+//             },
+//             1000:
+//             {
+//                 items:4,
+//                 nav:false
+//             }
             0:
             {
                 items:1,
                 nav:false
             },
-            333:
+            500:
             {
                 items:2,
                 nav:false
             },
-            666:
-            {
-                items:3,
-                nav:false
-            },
             1000:
             {
-                items:4,
+                items:3,
                 nav:false
             }
         }
