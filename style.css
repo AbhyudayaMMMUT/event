@@ -164,7 +164,7 @@ center
 
 
 
-.buttons .tshirt 
+.buttons .tshirt a
 
 {
 
@@ -175,7 +175,7 @@ center
  ; 
 }
 
-.buttons .tshirt:hover{
+.buttons .tshirt a:hover{
   background:white;
   font-size: 0;
   content: "Comming soon";
